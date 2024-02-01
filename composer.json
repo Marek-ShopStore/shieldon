@@ -16,7 +16,7 @@
     "require": {
         "php": ">=7.1.0",
         "psr/http-factory": "*",
-        "psr/http-message": "*",
+        "psr/http-message": "^2.0",
         "shieldon/event-dispatcher": "^1",
         "shieldon/messenger": "^1",
         "shieldon/psr-http": "^1.2",
